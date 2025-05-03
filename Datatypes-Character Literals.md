@@ -16,6 +16,8 @@ print(w)
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/227910e4-7c34-43d1-88e6-fab3163cbcc8)
+
 
 ## Result
 Thus, the required program is written and executed successfully.
