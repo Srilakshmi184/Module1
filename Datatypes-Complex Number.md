@@ -22,6 +22,7 @@ print(x.imag)
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/6f21ad71-8dc9-4800-85c6-a69c8f2c6aff)
 
 ## Result
 Thus, the program is verified successfully.
