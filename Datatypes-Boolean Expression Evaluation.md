@@ -27,6 +27,7 @@ print("d:",d)
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/c945843e-cc52-431a-b48b-b509045beab1)
 
 ## Result
 Thus, the required program is written and executed successfully.
