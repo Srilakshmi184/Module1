@@ -19,8 +19,11 @@ if(a%2==0):
     print("EVEN")
 else:
     print("ODD")
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/7a2ae574-d95e-467c-b156-429a35bde6ab)
+
 
 ## Result
 Thus, the required program is written and executed successfully.
